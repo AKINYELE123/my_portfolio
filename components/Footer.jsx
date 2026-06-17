@@ -5,7 +5,7 @@ function FooterSection() {
     <section id="contact" style={{ paddingBottom: 48 }}>
       <div className="sec-label">contact.sh</div>
       <h2 className="sec-title">let's build something<span style={{ color: 'var(--keyword)' }}>.</span></h2>
-      <p className="sec-sub">If you're hiring a senior React Native engineer or have a mobile build that needs to ship — get in touch.</p>
+      <p className="sec-sub">If you're hiring a React Native engineer or have a mobile build that needs to ship — get in touch.</p>
 
       <div className="code-card" style={{ maxWidth: 720 }}>
         <div className="code-head">
@@ -39,10 +39,10 @@ function FooterSection() {
               <span className="tk-prop">"location"</span>: <span className="tk-str">"Lagos, Nigeria"</span>,
             </div>
             <div style={{ paddingLeft: 18 }}>
-              <span className="tk-prop">"timezone"</span>: <span className="tk-str">"UTC+1 (WAT)"</span>,
+             <span className="tk-prop">"timezone"</span>: <span className="tk-str">"UTC+1 (WAT) · flexible with any timezone"</span>,
             </div>
             <div style={{ paddingLeft: 18 }}>
-              <span className="tk-prop">"open_to"</span>: [<span className="tk-str">"senior"</span>, <span className="tk-str">"lead"</span>, <span className="tk-str">"contract"</span>]
+             <span className="tk-prop">"open_to"</span>: [<span className="tk-str">"React Native"</span>, <span className="tk-str">"Mobile App developer"</span>, <span className="tk-str">"Full-time"</span>, <span className="tk-str">"Contract"</span>, <span className="tk-str">"Part-time"</span>, <span className="tk-str">"Any timezone"</span>]
             </div>
             <div><span className="tk-var">{'}'}</span></div>
           </div>
