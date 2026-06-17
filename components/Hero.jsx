@@ -62,7 +62,12 @@ function Hero() {
         <span className="pill">{c.location}</span>
         <span className="pill">react-native</span>
         <span className="pill">typescript</span>
-        <span className="pill">next.js</span>
+        <span className="pill">Android</span>
+        <span className="pill">iOS</span>
+        <span className="pill">CI/CD</span>
+        <span className="pill">REST API</span>
+        <span className="pill">Redux Toolkit</span>
+        <span className="pill">Jest</span>
       </div>
 
       {/* CTAs */}

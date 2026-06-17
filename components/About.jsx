@@ -44,7 +44,7 @@ function About() {
             <div style={{ color: 'var(--ink-2)' }}>
               <span className="tk-cm">{`// `}</span>
               Leading React Native development at <span className="tk-kw">D3Maven (UAE)</span>. Open to
-              senior &amp; lead mobile roles on remote, async-friendly teams.
+               mobile roles on remote, async-friendly teams.
             </div>
           </div>
         </div>
