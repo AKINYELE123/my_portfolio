@@ -3,7 +3,7 @@ function Experience() {
   const log = [
     {
       hash: 'a4f9c12',
-      date: 'Jan 2025 — April 2025',
+      date: 'Jan 2025 — April 2026',
       role: 'React Native Developer',
       company: 'D3Maven',
       location: 'UAE · Remote · Full-time',
