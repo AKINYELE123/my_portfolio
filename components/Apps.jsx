@@ -8,7 +8,7 @@ function Apps() {
     year: '2024',
     role: 'Lead React Native Developer',
     stack: ['React Native', 'TypeScript', 'Redux', 'REST API', 'Push Notification'],
-    ios: 'https://apps.apple.com/us/app/tribapay-redefining-payments/id163068680',  
+    ios: 'https://apps.apple.com/us/app/tribapay-redefining-payments/id1630686804',  
     android: 'https://play.google.com/store/apps/details?id=com.tribapay&hl=en', 
   },
   {
